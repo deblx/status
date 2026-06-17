@@ -29,8 +29,9 @@ status-website:
 
 i18n:
   footer: >
-    [Impressum](https://deblx.com/imprint) | [Datenschutz](https://deblx.com/privacy)<br>
-    This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org/)
+    [Imprint](https://deblx.com/imprint) | [Privacy Policy](https://deblx.com/privacy-policy)<br>
+    This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org/)<br>
+    Hosted via GitHub Pages, monitored via GitHub Actions
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
