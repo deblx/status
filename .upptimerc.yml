@@ -5,8 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Deblx
     url: https://www.deblx.com
+    assignees:
+      - swaiist
   - name: Deblx News
     url: https://news.deblx.com
+    assignees:
+      - swaiist
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,6 +26,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: >
+    [Impressum](https://deblx.com/imprint) | [Datenschutz](https://deblx.com/privacy)<br>
+    This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org/)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
