@@ -4,18 +4,21 @@
     "url": "https://www.deblx.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.deblx.com.ico",
     "slug": "deblx",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1628,
-    "timeDay": 840,
-    "timeWeek": 1628,
-    "timeMonth": 1628,
-    "timeYear": 1628,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "86.77%",
+    "uptimeDay": "11.13%",
+    "uptimeWeek": "86.77%",
+    "uptimeMonth": "86.77%",
+    "uptimeYear": "86.77%",
+    "time": 1414,
+    "timeDay": 451,
+    "timeWeek": 1414,
+    "timeMonth": 1414,
+    "timeYear": 1414,
+    "dailyMinutesDown": {
+      "2026-06-24": 117,
+      "2026-06-23": 1163
+    }
   },
   {
     "name": "Deblx News",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 394,
-    "timeWeek": 507,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "time": 511,
+    "timeDay": 546,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   }
 ]
