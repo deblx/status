@@ -5,19 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.deblx.com.ico",
     "slug": "deblx",
     "status": "up",
-    "uptime": "87.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.24%",
-    "uptimeMonth": "87.33%",
-    "uptimeYear": "87.33%",
-    "time": 1470,
+    "uptime": "87.25%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "79.01%",
+    "uptimeMonth": "87.25%",
+    "uptimeYear": "87.25%",
+    "time": 1473,
     "timeDay": 1524,
-    "timeWeek": 1221,
-    "timeMonth": 1470,
-    "timeYear": 1470,
+    "timeWeek": 1251,
+    "timeMonth": 1473,
+    "timeYear": 1473,
     "dailyMinutesDown": {
       "2026-06-24": 930,
-      "2026-06-23": 1163
+      "2026-06-23": 1163,
+      "2026-06-28": 23
     }
   },
   {
