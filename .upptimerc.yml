@@ -22,8 +22,8 @@ status-website:
   introTitle: "**Deblx** System Status"
   introMessage: Live status and uptime history for Deblx services.
   navbar:
-    - title: Status
-      href: /
+    - title: Deblx
+      href: https://deblx.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
