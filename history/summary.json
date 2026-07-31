@@ -4,24 +4,25 @@
     "url": "https://www.deblx.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.deblx.com.ico",
     "slug": "deblx",
-    "status": "up",
-    "uptime": "96.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.33%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "96.32%",
-    "time": 1483,
-    "timeDay": 799,
-    "timeWeek": 929,
-    "timeMonth": 1504,
-    "timeYear": 1483,
+    "uptimeYear": "96.33%",
+    "time": 1461,
+    "timeDay": 525,
+    "timeWeek": 844,
+    "timeMonth": 1469,
+    "timeYear": 1461,
     "dailyMinutesDown": {
       "2026-06-24": 930,
       "2026-06-23": 1163,
       "2026-06-28": 23,
       "2026-07-03": 11,
       "2026-07-02": 27,
-      "2026-07-21": 163
+      "2026-07-21": 163,
+      "2026-07-31": 0
     }
   },
   {
@@ -29,17 +30,19 @@
     "url": "https://news.deblx.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.deblx.com.ico",
     "slug": "deblx-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 708,
-    "timeWeek": 719,
-    "timeMonth": 579,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "time": 554,
+    "timeDay": 489,
+    "timeWeek": 663,
+    "timeMonth": 569,
+    "timeYear": 554,
+    "dailyMinutesDown": {
+      "2026-07-31": 0
+    }
   }
 ]
