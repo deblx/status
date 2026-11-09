@@ -4,11 +4,20 @@ repo: status # The name of this repository
 
 sites:
   - name: Deblx
-    url: https://www.deblx.com
+    url: https://deblx.com
     assignees:
       - swaiist
   - name: Deblx News
     url: https://news.deblx.com
+    assignees:
+      - swaiist
+
+  - name: Deblx Docs
+    url: https://docs.deblx.com
+    assignees:
+      - swaiist
+  - name: Deblx Changelog
+    url: https://changelog.deblx.com
     assignees:
       - swaiist
 
